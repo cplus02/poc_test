@@ -9,4 +9,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello from POC CRUD v1"
+      - run: echo "Hello from POC CRUD v2"
